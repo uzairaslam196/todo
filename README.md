@@ -9,7 +9,7 @@ Todo runs on Elixir 1.12.2 and OTP 24.0 with Postgresql
 To run Todo, first clone the repository. 
 
 ```
-git clone https://cheshire-howe@bitbucket.org/cheshire-howe/print_simple_live.git
+git clone git@github.com:uzairaslam-coder/todo.git
 ```
 
 Change directory into the new todo folder.
